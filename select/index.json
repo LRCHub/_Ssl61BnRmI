@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "I Script",
+  "base_artist": "ゲシュタルト乙女",
+  "createdAt": "2025-12-11T06:10:43.487492Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Script",
+      "artist": "ゲシュタルト乙女",
+      "has_synced": false,
+      "path": "select/pl_01_I_Script_ゲシュタルト乙女.txt"
+    }
+  ]
+}
